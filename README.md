@@ -37,7 +37,7 @@ yarn dev
 
 #### Production
 
-The command `yarn build` will generate the files in the dist folder with the code transpiled to Javascript.
+The command `yarn build` will generate the files in the `dist` folder with the code transpiled to Javascript.
 
 ```
 yarn
